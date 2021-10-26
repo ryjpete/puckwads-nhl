@@ -4,4 +4,5 @@
  * See: https://www.gatsbyjs.com/docs/browser-apis/
  */
 
-// You can delete this file if you're not using it
+import "@fontsource/irish-grover"
+import "@fontsource/sora/700.css"

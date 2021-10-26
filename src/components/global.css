@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+}
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+  /* font-size: 50%; */
+  font-size: 62.5%;
+}
+body {
+  background-color: #1E1D1B;
+  color: #fff;
+  font-family: 'Sora';
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0;
+}
+main {
+  padding: 2rem;
+  position: fixed;
+  top: 46px;
+  right: 0;
+  bottom: 46px;
+  left: 0;
+  z-index: 1;
+}
+
+@media only screen and (min-width: 576px) {
+  html {
+    font-size: 52%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 55%;
+  }
+}
+@media only screen and (min-width: 992px) {
+  html {
+    font-size: 62.5%;
+  }
+}
