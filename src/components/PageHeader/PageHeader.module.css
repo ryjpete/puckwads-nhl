@@ -1,0 +1,12 @@
+.pageHeader {
+  border-bottom: 1px dashed rgba(255,255,255,.4);
+  color: #fff;
+  display: inline-block;
+  font-family: 'Sora', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6rem;
+  margin: 0;
+  padding-bottom: .5rem;
+  text-transform: uppercase;
+}
