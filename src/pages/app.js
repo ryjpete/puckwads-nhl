@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import PrivateRoute from "../components/PrivateRoute/PrivateRoute"
 // import Profile from "../components/Profile/Profile"
 import Login from "../components/Login/Login"
-import Schedule from "./Schedule"
+import Schedule from './schedule'
 
 const App = () => (
   <Layout>
